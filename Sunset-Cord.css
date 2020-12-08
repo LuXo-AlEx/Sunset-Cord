@@ -103,7 +103,7 @@
     Change the transparency of the user popout when clicking a member
     Default: rgba(0, 0, 0, 0.8)
     */
-    --user-popup-background: rgba(199, 123, 17, .39);
+    --user-popup-background: rgba(199, 123, 17, .64);
 }
 
 /* ADD ANY CUSTOM CODE BELOW */
