@@ -1,0 +1,110 @@
+/**
+* @name Sunset Cord
+* @author 🎄Ale✘🎄#7801 (On Discord)
+* @version 1.0 (The Only Version)
+* @description An Awesome Sunset Discord Look */
+@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/tcsl.css);
+/* This is not mine. Credits Go To The Person Who Made NotAnotherAnimeTheme Im using this url bc idk how to make my own*/
+/* https://github.com/puckzxz/NotAnotherAnimeTheme (This Dude) */
+
+/* Any images you use MUST end with .jpg or .png or any other image extension */
+/* This is NOT a valid link, https://imgur.com/a/ycjL2 */
+/* THIS IS A VALID LINK https://i.imgur.com/rCqnrQ7.jpg */
+/* If you find an image I would STRONGLY recommend rehosting the image on imgur https://imgur.com/upload */
+:root {
+    /*
+    Change the theme background
+    Default: https://cdn.discordapp.com/attachments/766482417397137431/785597723100315658/unnamed.jpg
+    */
+    --background-image: url(https://cdn.discordapp.com/attachments/766482417397137431/785597723100315658/unnamed.jpg);
+
+    /*
+    Change your friends icon image
+    Default: https://i.imgur.com/63g6Em8.jpg
+    */
+    --friends-icon: url(https://cdn.discordapp.com/attachments/766482417397137431/785598197678604338/vlfaCsV.jpg);
+
+    /*
+    Change your friends icon iamge position
+    Default: center center
+    */
+    --friends-icon-position: center center;
+
+    /*
+    Change your friends icon image zoom
+    Default: 100% 
+    */
+    --friends-icon-zoom: 100%;
+
+    /*
+    Change the main theme color
+    Default: rgb(67, 181, 129)
+    */
+    --main-color: rgba(208, 129, 20, .75);
+
+    /*
+    Change global transparency
+    You can use this to make your background image lighter or darker
+    Default: rgba(0, 0, 0, 0.6)
+    */
+    --main-transparency: rgba(0, 0, 0, 0.6);
+
+    /*
+    Change the unread server animation.
+    Replace it with "none" in order to remove any animations and use the main color instead
+    Default: rainbow
+    */
+    --unread-server-animation: rainbow;
+
+    /*
+    Change background color when you hover members or friends
+    Default: rgba(255, 255, 255, .15)
+    */
+    --hover-list-bg-color: rgba(207, 103, 19, .16);
+
+    /*
+    Change the color of the borders between messages
+    Default: hsla(0,0%,100%,.1)
+    */
+    --border-lines-color: hsla(0, 0%, 100%, .1);
+
+    /*
+    Change the scroll bar color
+    Default: rgba(255,255,255, .15)
+    */
+    --scroll-bar-color: rgba(207, 129, 19, .34);
+
+    /*
+    Change chat messages font size, you can use any unit: px, em, rem, %
+    Default: 16px
+    */
+    --font-size: 16px;
+
+    /*
+    Change the text color of a selected text channel or joined voice channel
+    Default: #f6f6f7
+    */
+    --selected-text-voice-color: #f49207fc;
+
+    /*
+    Change the text color of a hovered text or voice channel
+    Default: rgba(255, 255, 255, 0.75)
+    */
+    --channel-hover-text-color: rgba(184, 99, 17, .75);
+
+
+    /*
+    Change the text color of an unread text channel
+    Default: #dcddde
+    */
+    --unread-text-color: #b2afac;
+
+
+    /*
+    Change the transparency of the user popout when clicking a member
+    Default: rgba(0, 0, 0, 0.8)
+    */
+    --user-popup-background: rgba(199, 123, 17, .39);
+}
+
+/* ADD ANY CUSTOM CODE BELOW */
