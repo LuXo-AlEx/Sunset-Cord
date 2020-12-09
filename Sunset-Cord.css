@@ -1,10 +1,9 @@
 /**
 * @name Sunset Cord
 * @author 🎄Ale✘🎄#7801 (On Discord)
-* @version 1.0 (The Only Version)
+* @version 1.1
 * @description An Awesome Sunset Discord Look */
 @import url(https://puckzxz.github.io/NotAnotherAnimeTheme/css/tcsl.css);
-
 
 /* Any images you use MUST end with .jpg or .png or any other image extension */
 /* This is NOT a valid link, https://imgur.com/a/ycjL2 */
@@ -96,14 +95,18 @@
     Change the text color of an unread text channel
     Default: #dcddde
     */
-    --unread-text-color: #b2afac;
+    --unread-text-color: #eeebe7;
 
 
     /*
     Change the transparency of the user popout when clicking a member
     Default: rgba(0, 0, 0, 0.8)
     */
-    --user-popup-background: rgba(199, 123, 17, .64);
-}
+    --user-popup-background: rgba(199, 123, 17, .64);}
+
+/* Changes The Settings Menu As well As Some Buttons */
+.theme-dark {--interactive-normal: #ffae19d9;
+  --header-primary: #faa61a;
+    --header-secondary: #faa61a;}
 
 /* ADD ANY CUSTOM CODE BELOW */
