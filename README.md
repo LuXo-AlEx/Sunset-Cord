@@ -13,3 +13,4 @@ The Sunset-Cord.css Contains the css theme for discord
 Pls know that I use web version on discord Meaning I use stylus. So It might Be A bit diffrent.
 
 ANY PROBLEMS LET ME KNOW! MY DISCORD IS IN THE CSS FILE!
+Last Update On 12/9/2020
