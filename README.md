@@ -14,3 +14,5 @@ Pls know that I use web version on discord Meaning I use stylus. So It might Be 
 
 ANY PROBLEMS LET ME KNOW! MY DISCORD IS IN THE CSS FILE!
 Last Update On 12/9/2020
+
+This is the last update. I will be working on new themes. Enjoy Sunset cord.
